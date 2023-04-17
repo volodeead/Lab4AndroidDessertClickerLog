@@ -1,4 +1,4 @@
-#Mon Apr 17 17:39:27 EEST 2023
+#Mon Apr 17 17:56:05 EEST 2023
 base.0=C\:\\Users\\Volodimir\\Desktop\\DessertClicker-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
